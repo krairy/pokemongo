@@ -4,6 +4,8 @@ Popular resourses like Gamepress and PvPoke are great but have certain disadvant
 
 Simply open the Jupyter notebook file (.ipynb) and click on the orange "Open in collab" button. 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krairy/pokemongo/blob/main/IsPokePvP.ipynb)
+
 Follow the instructions inside the Notebook. Run (with the "play" button on the left) the first and the second pieces of code; enter the name of your Pokemon and hit Enter (case insensetive). 
 If you want to search again, you have to run the second cell again. 
 
